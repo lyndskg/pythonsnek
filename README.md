@@ -10,7 +10,7 @@
 
 <ins>__Completed on__</ins>: February 3rd, 2023
 
-A simple simulation of the classic arcade snake game using the cross-platform "Pygame" Python module. Runs as a fully contained application within Terminal. Implementation was assisted by guides from [Edureka](https://www.edureka.co/blog/snake-game-with-pygame/) and [Geeks for Geeks](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/).
+A simple simulation of the classic arcade snake game using the cross-platform "Pygame" Python module. Runs as a fully contained application within Terminal and other CLIs. Implementation was assisted by guides from [Edureka](https://www.edureka.co/blog/snake-game-with-pygame/) and [Geeks for Geeks](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/).
 
 
 ## To Do
